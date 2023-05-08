@@ -6,6 +6,6 @@ public class Apple {
 	String country2;
 	
 	public Apple() {
-		
+		System.out.println("사과 생성");
 	}
 }
